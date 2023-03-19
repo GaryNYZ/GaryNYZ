@@ -7,7 +7,7 @@
   <a href="https://garynyz.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-garynyz.io-blue?style=for-the-badge&logo=website&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/garynyz" target="_blank">
+  <a href="https://twitter.com/GaryNYZOfficial" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
